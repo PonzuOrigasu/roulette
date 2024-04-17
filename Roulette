@@ -1,0 +1,1597 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([[6274], {
+    81822: function(t, e, r) {
+        (window.__NEXT_P = window.__NEXT_P || []).push(["/roulette", function() {
+            return r(48518)
+        }
+        ])
+    },
+    7618: function(t, e, r) {
+        "use strict";
+        r.d(e, {
+            Y: function() {
+                return s
+            }
+        });
+        var i = r(35944)
+          , a = {
+            name: "1ytv846",
+            styles: "--tw-text-opacity:1;color:rgb(34 197 94 / var(--tw-text-opacity))"
+        }
+          , n = {
+            name: "qmv6xh",
+            styles: "--tw-text-opacity:1;color:rgb(239 68 68 / var(--tw-text-opacity))"
+        }
+          , o = {
+            name: "18icuxn",
+            styles: "--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))"
+        };
+        let s = t=>{
+            let {value: e, children: r} = t;
+            return e > 0 ? (0,
+            i.tZ)("span", {
+                css: a,
+                children: r
+            }) : e < 0 ? (0,
+            i.tZ)("span", {
+                css: n,
+                children: r
+            }) : (0,
+            i.tZ)("span", {
+                css: o,
+                children: r
+            })
+        }
+    },
+    94096: function(t, e, r) {
+        "use strict";
+        r.d(e, {
+            F: function() {
+                return C
+            }
+        });
+        var i = r(25675)
+          , a = r.n(i)
+          , n = r(61157)
+          , o = r(59587)
+          , s = r(84849)
+          , l = r(7618)
+          , d = r(67294)
+          , c = r(74301)
+          , m = r(96755)
+          , u = r(35944)
+          , g = {
+            name: "97bzgp",
+            styles: "display:flex;align-items:center;gap:0.5rem;border-radius:0.25rem;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity));padding-left:0.75rem;padding-right:0.75rem;padding-top:0.625rem;padding-bottom:0.625rem;font-size:0.875rem;line-height:1.25rem;--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))"
+        }
+          , p = {
+            name: "wixvpq",
+            styles: "height:1.5rem;width:1.5rem;border-radius:9999px"
+        }
+          , w = {
+            name: "1mzc60z",
+            styles: "height:1.5rem;width:1.5rem;border-radius:0.25rem"
+        }
+          , h = {
+            name: "a09utv",
+            styles: "display:flex;flex-grow:1;align-items:center;gap:0.25rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"
+        }
+          , v = {
+            name: "7e3114",
+            styles: "height:0.75rem;width:100%"
+        }
+          , f = {
+            name: "l3gz3t",
+            styles: "height:0.75rem;width:3rem"
+        };
+        let C = (0,
+        d.memo)(t=>{
+            let {isLoading: e, avatar: r, username: i, id: d, amount: C, result: y, hasPass: b} = t;
+            return (0,
+            u.BX)("div", {
+                css: g,
+                children: [e ? (0,
+                u.tZ)(o.J, {
+                    css: p
+                }) : (0,
+                u.tZ)(a(), {
+                    css: w,
+                    src: r,
+                    width: 26,
+                    height: 26,
+                    alt: i
+                }), (0,
+                u.tZ)("div", {
+                    css: h,
+                    children: e ? (0,
+                    u.tZ)(s.Z, {
+                        css: v
+                    }) : (0,
+                    u.BX)(u.HY, {
+                        children: [b && (0,
+                        u.tZ)(m.n, {
+                            width: 13,
+                            height: 13
+                        }), " ", (0,
+                        u.tZ)(c.R, {
+                            id: d,
+                            children: i
+                        })]
+                    })
+                }), e ? (0,
+                u.tZ)(s.Z, {
+                    css: f
+                }) : y ? (0,
+                u.tZ)(l.Y, {
+                    value: y,
+                    children: (0,
+                    u.tZ)(n.F, {
+                        children: y
+                    })
+                }) : (0,
+                u.tZ)(n.F, {
+                    children: C
+                })]
+            })
+        }
+        )
+    },
+    48518: function(t, e, r) {
+        "use strict";
+        r.r(e),
+        r.d(e, {
+            default: function() {
+                return ej
+            }
+        });
+        var i, a, n, o, s, l, d, c, m, u, g, p, w = r(83421), h = r(8809), v = r(64112), f = r(29790), C = r(67294);
+        function y() {
+            return (y = Object.assign ? Object.assign.bind() : function(t) {
+                for (var e = 1; e < arguments.length; e++) {
+                    var r = arguments[e];
+                    for (var i in r)
+                        Object.prototype.hasOwnProperty.call(r, i) && (t[i] = r[i])
+                }
+                return t
+            }
+            ).apply(this, arguments)
+        }
+        function b() {
+            return (b = Object.assign ? Object.assign.bind() : function(t) {
+                for (var e = 1; e < arguments.length; e++) {
+                    var r = arguments[e];
+                    for (var i in r)
+                        Object.prototype.hasOwnProperty.call(r, i) && (t[i] = r[i])
+                }
+                return t
+            }
+            ).apply(this, arguments)
+        }
+        function x() {
+            return (x = Object.assign ? Object.assign.bind() : function(t) {
+                for (var e = 1; e < arguments.length; e++) {
+                    var r = arguments[e];
+                    for (var i in r)
+                        Object.prototype.hasOwnProperty.call(r, i) && (t[i] = r[i])
+                }
+                return t
+            }
+            ).apply(this, arguments)
+        }
+        function L() {
+            return (L = Object.assign ? Object.assign.bind() : function(t) {
+                for (var e = 1; e < arguments.length; e++) {
+                    var r = arguments[e];
+                    for (var i in r)
+                        Object.prototype.hasOwnProperty.call(r, i) && (t[i] = r[i])
+                }
+                return t
+            }
+            ).apply(this, arguments)
+        }
+        var Z = r(35944);
+        (i = m || (m = {})).GREEN = "green",
+        i.RED = "red",
+        i.BLACK = "black",
+        i.BAIT = "bait",
+        (a = u || (u = {})).GREEN = "green",
+        a.RED = "red",
+        a.BLACK = "black";
+        let E = {
+            green: function(t) {
+                return C.createElement("svg", y({
+                    width: 130,
+                    height: 109,
+                    viewBox: "0 0 130 109",
+                    fill: "none",
+                    xmlns: "http://www.w3.org/2000/svg"
+                }, t), s || (s = C.createElement("path", {
+                    fillRule: "evenodd",
+                    clipRule: "evenodd",
+                    d: "M87.9845 32.8861L85.9979 35.8279L88.12 38.6735L94.2146 46.8458L95.1375 48.0832L96.5973 48.5851L113.804 54.5001L96.5978 60.4149L95.138 60.9167L94.2151 62.1541L88.1206 70.3262L85.9984 73.1718L87.9851 76.1136L91.6842 81.5912L87.6811 78.8877L83.727 76.2175L80.8747 80.0422L65.5161 100.636L49.5391 79.2126L46.6867 75.3878L42.7326 78.0581L37.501 81.5911L42.078 74.8137L44.0646 71.8719L41.9425 69.0263L37.4543 63.008L36.5314 61.7705L35.0715 61.2686L15.3809 54.5001L35.072 47.7313L36.5319 47.2295L37.4547 45.992L41.9431 39.9734L44.0652 37.1278L42.0786 34.186L37.5016 27.4085L42.7332 30.9415L46.6873 33.6118L49.5396 29.787L65.5161 8.3637L80.8741 28.9574L83.7265 32.7821L87.6805 30.1119L91.6836 27.4085L87.9845 32.8861ZM129.185 54.5001L121.495 51.8565L98.2228 43.8567L92.1282 35.6843L102.776 19.918L110.266 8.82611L99.1742 16.3167L84.8822 25.9683L68.6347 4.18184L65.5161 0L62.3974 4.18186L45.5315 26.7979L30.0111 16.3166L18.9192 8.82605L26.4098 19.918L37.9349 36.9843L33.4466 43.0029L7.69046 51.8565L0 54.5001L7.69047 57.1437L33.4461 65.9971L37.9344 72.0154L26.409 89.0818L18.9184 100.174L30.0104 92.6831L45.5309 82.2017L62.3974 104.818L65.5161 109L68.6347 104.818L84.8828 83.0313L99.1749 92.6831L110.267 100.174L102.776 89.0818L92.1287 73.3153L98.2232 65.1433L121.495 57.1437L129.185 54.5001ZM88.625 53.937L66.0925 22.3916L43.5604 53.937L66.0925 85.482L88.625 53.937Z"
+                })))
+            },
+            bait: function(t) {
+                return C.createElement("svg", b({
+                    width: 111,
+                    height: 132,
+                    viewBox: "0 0 111 132",
+                    fill: "none",
+                    xmlns: "http://www.w3.org/2000/svg"
+                }, t), l || (l = C.createElement("path", {
+                    d: "M87.1888 122.333L88.5841 123.322L85.5343 124.036C88.3439 124.508 90.9896 123.705 93.6696 124.683L94.7866 125.925C94.2567 126.565 93.3875 126.431 92.5679 126.42C90.2577 126.383 87.9932 126.892 85.6716 126.858C84.1467 126.832 82.6218 127.491 81.0359 127.565C80.689 127.565 80.3611 127.937 79.8579 128.264C80.7157 128.855 81.5772 129.171 82.5265 129.696L83.2889 131.629C81.0893 131.629 79.0955 131.834 77.1894 131.573C75.2833 131.313 73.3505 130.651 71.9552 129.127C71.574 128.71 71.147 128.335 70.6857 127.881C70.0834 128.625 69.4887 129.368 68.913 130.112H67.9447C67.6092 129.249 68.1811 128.573 68.4632 127.94C69.6717 125.241 70.457 122.467 70.1177 119.515C69.9129 117.729 69.3161 116.006 68.3679 114.465C67.1899 112.532 65.6459 110.862 64.3307 109.029C63.4806 107.847 62.7639 106.575 61.9481 105.277H53.1457C52.6348 106.962 52.3146 108.683 51.9524 110.371C51.5712 112.138 51.007 113.867 50.7211 115.651C50.4466 117.366 49.7223 118.998 49.5431 120.857C51.068 120.857 52.5357 120.946 53.9691 120.824C54.8383 120.749 55.5779 120.296 56.5767 120.72C57.3772 121.058 58.4828 120.656 59.3634 120.902C60.5681 121.236 61.9862 121.419 62.661 122.917C61.849 123.211 61.1056 123.058 60.3736 123.081C59.6417 123.103 58.8487 123.081 58.0863 123.081H53.7594V123.304C53.9059 123.374 54.0629 123.422 54.2245 123.445C56.1193 123.388 58.0106 123.64 59.8209 124.189C60.5071 124.397 61.3458 123.861 61.9481 124.561C63.4501 124.382 64.3269 125.323 65.2762 126.368C65.1504 126.695 65.0093 127.07 64.8263 127.557L51.129 125.635C51.1061 126.026 51.0909 126.264 51.068 126.684L53.8204 128.625C54.1711 129.168 54.2665 130.004 54.0301 130.975C53.5421 130.789 53.0503 130.74 52.7987 130.476C51.5293 129.127 49.749 128.68 48.1859 127.851C46.8669 127.152 45.4831 126.513 44.4805 125.364C44.0497 124.869 43.6837 124.323 43.2415 123.739C42.2046 124.204 41.3926 125.397 39.9058 124.735C40.0327 124.513 40.1754 124.299 40.3328 124.096C41.6289 122.698 42.9403 121.311 44.2327 119.909C45.1171 118.95 45.8109 117.269 46.1388 115.849C46.6572 113.651 47.2824 111.483 47.8619 109.297C48.1974 108.007 48.51 106.694 48.8378 105.393C46.8707 104.504 44.9913 103.533 43.0204 102.79C40.0654 101.661 37.1798 100.366 34.3781 98.9116C32.8265 98.1159 31.4655 97.0525 30.0245 96.1155C28.4996 95.1078 27.4817 93.6911 26.3343 92.3972C24.939 90.8132 24.1346 88.8499 23.2616 86.9573C22.4909 85.1551 21.8899 83.2882 21.4661 81.3798C21.2526 80.5283 21.1344 79.6545 20.959 78.777C20.8408 78.2118 20.696 77.6615 20.5969 77.2227C16.0184 75.3933 12.2824 72.7905 10.3 67.979C9.91882 66.3132 10.8071 65.0044 12.778 64.1603C12.2633 63.8926 11.9126 63.7141 11.5657 63.5282C10.0154 62.7153 8.58547 61.7009 7.31507 60.5127C5.63006 58.9249 4.06324 57.2628 2.99581 55.1917C2.41067 54.178 2.02292 53.0673 1.85215 51.9159C1.79877 51.2317 1.44042 50.5699 1.53192 49.8262C1.60054 49.3726 1.8369 48.9413 1.89027 48.4876C2.00381 47.3626 1.77157 46.23 1.22313 45.2341C0.605547 44.0034 -0.0768416 41.1812 0.00702743 40.0099C0.880027 39.0059 1.82546 38.1842 3.28935 38.2474C3.46472 38.2474 3.67058 37.9314 3.926 37.6859C2.19906 35.6966 2.38586 33.6404 3.70107 31.5507C6.20571 30.4724 7.34938 30.6806 9.53759 31.666C9.35657 30.7966 9.24063 29.9155 9.19068 29.0297C9.19068 28.1373 8.9772 27.2486 9.38511 26.3265C9.73202 25.5457 9.62146 24.5789 10.4449 23.8724H13.6129C13.6129 23.8724 13.6319 23.9208 13.6853 23.9393C16.5254 24.9098 17.8482 27.2115 19.1749 29.6172C20.3567 31.7627 21.8092 33.7668 23.1892 35.8045C24.5087 37.6683 25.9328 39.4595 27.4551 41.17C28.4157 42.2855 29.4717 43.3155 30.4629 44.3975C31.8048 45.8625 33.6042 46.3608 35.4874 46.4537C36.7569 46.5169 38.1026 46.8256 39.334 46.1265C39.4293 46.0707 39.5818 46.1265 39.7152 46.1265C43.5998 46.0038 47.4845 45.8402 51.373 45.777C52.5891 45.777 53.8052 46.0484 55.0251 46.1116C56.2288 46.2121 57.4391 46.2121 58.6429 46.1116C60.6977 45.8774 62.7982 45.8848 64.7996 45.368C65.7727 45.1249 66.6821 44.684 67.4682 44.074C69.2676 42.6164 70.6971 40.8725 71.3224 38.5821C71.8426 36.9057 72.2426 35.1962 72.5194 33.4657C72.7329 31.7738 73.156 30.1192 73.2399 28.379C73.3009 27.0404 73.7241 25.7241 74.0328 24.4227C74.282 23.2356 74.6418 22.0731 75.1079 20.9498C75.567 19.8332 76.0836 18.7399 76.6557 17.674C77.3066 16.5611 78.0233 15.4859 78.8019 14.4539C80.2696 12.4535 82.0995 10.7617 83.9294 9.09957C85.2255 7.92087 86.6856 6.90949 88.0657 5.83118C88.0657 4.86814 88.1 3.93856 88.0657 3.0127C88.0391 2.57094 88.1202 2.12933 88.3025 1.72407C88.4847 1.31882 88.7628 0.961467 89.114 0.681318L93.5362 1.18701C94.2986 0.395008 95.0916 -0.0958086 96.2048 0.0157408C97.2417 0.688755 97.6038 1.82656 98.0727 2.89743C99.285 2.94949 99.5023 2.89743 101.012 2.21698L103.299 3.40312V5.76797C104.056 6.03907 104.749 6.45507 105.338 6.99148C105.928 7.52788 106.401 8.17385 106.73 8.89135C106.654 9.97709 107.051 11.2934 106.063 12.4089C106.414 13.5913 107.348 14.3015 108.415 14.8369C109.803 15.5285 110.726 16.5139 111 18.1313C108.777 18.5032 106.444 17.6963 104.653 18.9122C104.294 20.5148 104.077 21.9092 103.658 23.244C103.2 24.6979 101.603 25.6609 99.9751 25.6684C98.9686 25.6684 97.9584 25.6684 96.7728 25.6684C96.9786 26.9512 97.1121 28.1671 97.3827 29.3532C97.6229 30.4166 98.1795 31.4317 98.3015 32.4989C98.4273 33.6144 98.9686 34.6035 99.1821 35.7041C99.4833 37.2583 100.177 38.7605 100.684 40.2888C101.065 41.4823 101.534 42.6722 101.931 43.8695C102.327 45.0668 102.991 46.1005 102.922 47.3759C103.928 48.469 103.833 49.9787 104.371 51.2503C104.908 52.522 104.98 53.935 105.541 55.2364C105.804 55.8499 105.697 56.6047 105.922 57.3112C106.25 58.3783 106.09 59.5831 106.383 60.6577C107.073 63.201 106.677 65.7666 106.704 68.3174C106.727 70.6116 106.056 72.8165 105.179 74.9397C104.874 75.6834 104.481 76.3973 104.104 77.1112C103.726 77.8251 103.341 78.539 102.91 79.2269C102.529 79.8256 102.114 80.4019 101.679 80.9634C100.04 83.0578 98.181 84.9795 96.1323 86.697C93.174 89.1957 89.8231 91.1999 86.5713 93.323C85.0997 94.2823 83.6244 95.2194 82.3778 96.4501C80.6261 98.1495 79.3187 100.234 78.5656 102.53C78.1272 103.898 77.2656 105.151 77.258 106.649C76.7128 107.166 77.1474 107.828 76.8501 108.773L73.9642 111.818C74.0862 112.606 73.8346 113.513 74.2921 114.484C74.6733 115.313 74.0023 116.414 74.6733 117.299C74.7381 117.38 74.7038 117.533 74.7152 117.671C74.841 119.106 74.9363 120.545 75.0965 121.976C75.2197 122.698 75.38 123.412 75.5768 124.118C76.7776 124.613 77.9976 123.977 79.1908 123.698C80.7157 123.326 82.2406 122.806 83.7655 122.419C84.9358 122.114 86.2015 122.333 87.1888 122.333Z"
+                })))
+            },
+            red: function(t) {
+                return C.createElement("svg", L({
+                    width: 161,
+                    height: 179,
+                    viewBox: "0 0 161 179",
+                    fill: "none",
+                    xmlns: "http://www.w3.org/2000/svg"
+                }, t), c || (c = C.createElement("path", {
+                    fillRule: "evenodd",
+                    clipRule: "evenodd",
+                    d: "M56.4213 149.397H76.288L79.4667 152.576C81.4708 154.58 85.7211 156.584 87.9691 157.644C88.3952 157.845 88.7494 158.012 89.0027 158.139C90.0826 158.679 90.7956 158.118 91.6403 157.454C92.0387 157.14 92.4666 156.804 92.976 156.549C94.2475 155.914 94.0356 150.457 93.7707 147.808H100.128V158.139C100.128 160.523 102.512 164.496 104.101 166.88C105.691 169.264 116.816 173.237 118.405 173.237C119.677 173.237 122.644 174.297 123.968 174.827C122.644 176.681 131.915 178.154 132.709 178.005C142.881 176.098 150.192 166.085 152.576 161.317C163.243 136.429 161.183 128.721 160.062 124.528L160.062 124.528C159.93 124.035 159.812 123.591 159.728 123.173C158.933 119.2 153.371 111.253 150.192 112.048C147.649 112.684 145.954 112.313 145.424 112.048C144.788 110.141 143.04 110.724 142.245 111.253C140.126 110.194 134.617 107.598 129.531 105.691C124.445 103.783 120.524 107.015 119.2 108.869C119.2 105.055 116.551 100.393 115.227 98.5387C113.902 96.9493 112.048 93.9296 115.227 94.5654C118.405 95.2011 120.789 93.2409 121.584 92.1814C123.703 87.6782 127.147 75.0165 123.968 60.3947C120.789 45.7728 113.637 43.7067 110.459 44.5013C110.194 43.4418 109.187 40.0512 107.28 34.9653C105.373 29.8795 99.5982 28.608 96.9493 28.608V23.84L77.0827 5.56267L76.288 7.152C75.4933 6.88711 73.7451 6.35733 73.1093 6.35733C72.4736 6.35733 68.0765 2.11911 65.9573 0L64.368 2.384L70.7253 9.536C65.0037 6.35733 57.216 7.152 54.0373 7.94667L49.2693 3.17867C48.4747 3.97333 46.5675 5.56267 45.296 5.56267C44.0245 5.56267 38.4089 2.384 35.76 0.794667C31.2569 1.58933 22.4096 3.3376 23.0453 3.97333C23.2271 4.15509 23.6583 4.63683 24.2247 5.26977L24.2248 5.26978C26.1351 7.40425 29.5844 11.2582 30.1973 11.1253C24.8996 12.1849 22.7804 14.304 20.3082 16.7763C19.072 18.0124 17.7476 19.3369 15.8933 20.6613C11.835 23.5602 9.46856 31.1117 7.86826 36.2184C7.27507 38.1114 6.78714 39.6684 6.35733 40.528C5.08587 43.0709 6.88711 47.4151 7.94667 49.2693H0V63.5733C3.97333 63.5733 6.35733 64.368 7.94667 67.5467C8.88919 69.4317 8.43435 76.3473 8.07377 81.8297C7.82632 85.592 7.62326 88.6793 7.94667 89.0027C11.7611 94.0886 14.304 103.307 15.0987 107.28L1.58933 110.459C2.64889 112.048 5.08587 115.545 6.35733 116.816C7.28827 117.747 10.673 119.768 13.4772 121.443L13.4777 121.444L13.4779 121.444C15.4609 122.628 17.1535 123.639 17.4827 123.968C18.2773 124.763 35.76 127.147 37.3493 127.147C37.4854 127.147 37.633 127.141 37.7893 127.135C39.4595 127.069 42.1173 126.964 42.1173 133.504C42.1173 140.656 52.448 147.013 54.0373 147.013C54.832 147.013 55.0307 147.609 55.2293 148.205C55.428 148.801 55.6267 149.397 56.4213 149.397ZM90.5921 67.5467C90.5921 78.9576 81.3417 88.208 69.9307 88.208C58.5198 88.208 49.2694 78.9576 49.2694 67.5467C49.2694 56.1358 58.5198 46.8854 69.9307 46.8854C81.3417 46.8854 90.5921 56.1358 90.5921 67.5467ZM58.3732 140.826C60.8495 138.961 60.2975 134.05 57.1404 129.857C53.9832 125.663 49.4164 123.774 46.9401 125.638C44.4638 127.503 45.0157 132.414 48.1729 136.607C51.3301 140.801 55.8969 142.69 58.3732 140.826ZM123.817 67.654C124.953 79.0082 121.958 88.6045 117.128 89.0879C112.298 89.5712 107.461 80.7587 106.325 69.4045C105.189 58.0502 108.183 48.4539 113.013 47.9706C117.844 47.4872 122.68 56.2997 123.817 67.654ZM92.9296 144.345C99.7503 149.097 110.582 145.338 117.122 135.95C123.663 126.561 123.435 115.098 116.615 110.347C109.794 105.595 98.9625 109.354 92.422 118.742C85.8816 128.131 86.1088 139.593 92.9296 144.345Z"
+                })))
+            },
+            black: function(t) {
+                return C.createElement("svg", x({
+                    width: 110,
+                    height: 149,
+                    viewBox: "0 0 110 149",
+                    fill: "none",
+                    xmlns: "http://www.w3.org/2000/svg"
+                }, t), d || (d = C.createElement("path", {
+                    fillRule: "evenodd",
+                    clipRule: "evenodd",
+                    d: "M13.3463 136.412C12.7271 135.173 9.63095 125.885 9.63095 111.643C9.63095 106.008 7.78913 102.021 5.71638 97.5337C2.55044 90.6802 -1.15427 82.6603 0.342608 65.8204C2.8195 37.9554 7.77324 5.1366 52.3573 0.182817C94.4644 -2.9133 106.849 34.2401 106.849 41.6707C106.849 43.8968 107.238 46.5675 107.733 49.9658C108.89 57.911 110.627 69.8337 109.326 89.3509C107.468 117.216 103.134 135.793 98.1798 143.223C93.226 150.654 59.1688 153.131 13.3463 136.412ZM72.0806 63.5926C63.1693 59.7047 59.648 58.1685 53.3296 57.8044C45.4798 57.3521 39.5924 61.423 43.9098 70.9217C48.2272 80.4204 64.3194 77.2542 67.0669 76.3495C68.1673 75.9872 69.0789 75.4072 70.1041 74.7548C71.6387 73.7783 73.428 72.6398 76.4867 71.8263C81.5891 70.4693 81.5891 67.6883 79.6266 66.8508C76.7169 65.6154 74.2404 64.5349 72.0806 63.5926ZM104.54 61.2129C101.391 61.0306 99.4484 62.0903 94.5326 64.7722L94.532 64.7725C93.3407 65.4224 91.9748 66.1676 90.3747 67.0134C89.2948 67.5878 88.9044 70.0099 91.2161 71.595C92.6019 72.5453 93.3195 73.6783 93.935 74.6501C94.3462 75.2993 94.7118 75.8765 95.2005 76.2791C96.4209 77.2841 103.868 81.3137 107.318 73.382C110.769 65.4502 108.453 61.4394 104.54 61.2129ZM84.5259 101.118C82.5173 101.101 67.3971 100.976 69.9947 116.591C72.6604 132.616 95.3195 124.327 94.653 118.249C94.3647 115.619 94.8248 114.127 95.2239 112.833C95.7472 111.136 96.1655 109.779 94.653 106.644C92.5204 102.224 87.1 101.118 84.6564 101.118C84.6223 101.118 84.5786 101.118 84.5259 101.118Z"
+                })))
+            }
+        };
+        var R = {
+            name: "l89uz7",
+            styles: "height:60%;fill:rgb(0 0 0 / 55%)"
+        };
+        let B = t=>{
+            let {graphic: e, ...r} = t
+              , i = E[e];
+            return (0,
+            Z.tZ)(i, {
+                css: R,
+                ...r
+            })
+        }
+        ;
+        var N = r(37302)
+          , k = r(76921);
+        let O = {
+            [N.u.CSGO]: {
+                [u.GREEN]: {
+                    "--tw-gradient-from": "#22c55e var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#16a34a var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.BLACK]: {
+                    "--tw-gradient-from": "#fde047 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#facc15 var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.RED]: {
+                    "--tw-gradient-from": "#60a5fa var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#3b82f6 var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                }
+            },
+            [N.u.RUST]: {
+                [u.GREEN]: {
+                    "--tw-gradient-from": "#4ade80 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#22c55e var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.BLACK]: {
+                    "--tw-gradient-from": "#f87171 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#ef4444 var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.RED]: {
+                    "--tw-gradient-from": "#60a5fa var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#3b82f6 var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                }
+            },
+            [N.u.DOTA]: {
+                [u.GREEN]: {
+                    "--tw-gradient-from": "#f87171 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#ef4444 var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.BLACK]: {
+                    "--tw-gradient-from": "#b19c55 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#725f3a var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                },
+                [u.RED]: {
+                    "--tw-gradient-from": "#5f91c1 var(--tw-gradient-from-position)",
+                    "--tw-gradient-to": "#2f518a var(--tw-gradient-to-position)",
+                    "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+                }
+            }
+        }
+          , T = {
+            [N.u.CSGO]: {
+                "--tw-gradient-from": "#e5e7eb var(--tw-gradient-from-position)",
+                "--tw-gradient-to": "#9ca3af var(--tw-gradient-to-position)",
+                "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+            },
+            [N.u.RUST]: {
+                "--tw-gradient-from": "#e5e7eb var(--tw-gradient-from-position)",
+                "--tw-gradient-to": "#9ca3af var(--tw-gradient-to-position)",
+                "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+            },
+            [N.u.DOTA]: {
+                "--tw-gradient-from": "#94a0a9 var(--tw-gradient-from-position)",
+                "--tw-gradient-to": "#71808B var(--tw-gradient-to-position)",
+                "--tw-gradient-stops": "var(--tw-gradient-from), var(--tw-gradient-to)"
+            }
+        }
+          , D = O[k.CURRENT_BRAND]
+          , I = t=>{
+            let {children: e, color: r, noShadow: i, ...a} = t;
+            return (0,
+            Z.tZ)("div", {
+                css: ["display:flex;height:100%;width:100%;align-items:center;justify-content:center;--tw-bg-opacity:1;background-color:rgb(34 197 94 / var(--tw-bg-opacity));background-image:linear-gradient(to bottom, var(--tw-gradient-stops));", r ? D[r] : T[k.CURRENT_BRAND], !i && {
+                    "--tw-shadow": "inset 0 0 24px rgba(0,0,0,0.75)",
+                    "--tw-shadow-colored": "inset 0 0 24px var(--tw-shadow-color)",
+                    boxShadow: "var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)"
+                }, "", ""],
+                ...a,
+                children: e
+            })
+        }
+        ;
+        var j = r(59587);
+        let A = t=>0 === t ? u.GREEN : t <= 7 ? u.RED : u.BLACK
+          , G = t=>t === m.BAIT ? null : t === m.GREEN ? u.GREEN : t === m.RED ? u.RED : u.BLACK
+          , X = t=>0 === t ? m.GREEN : [11, 4].includes(t) ? m.BAIT : t <= 7 ? m.RED : m.BLACK
+          , S = t=>{
+            let e = [];
+            return 0 === t ? e.push(m.GREEN) : t <= 7 ? e.push(m.RED) : t <= 14 && e.push(m.BLACK),
+            [11, 4].includes(t) && e.push(m.BAIT),
+            e
+        }
+        ;
+        var z = {
+            name: "1o003hx",
+            styles: "height:2.25rem;width:2.25rem;border-radius:9999px"
+        }
+          , M = {
+            name: "1o003hx",
+            styles: "height:2.25rem;width:2.25rem;border-radius:9999px"
+        };
+        let _ = t=>{
+            let {outcome: e, isLoading: r, ...i} = t;
+            if (r)
+                return (0,
+                Z.tZ)(j.J, {
+                    css: z
+                });
+            let a = A(e)
+              , n = X(e);
+            return (0,
+            Z.tZ)(I, {
+                color: a,
+                css: M,
+                noShadow: !0,
+                ...i,
+                children: (0,
+                Z.tZ)(B, {
+                    graphic: n
+                })
+            })
+        }
+        ;
+        var H = r(67848)
+          , F = r(48627);
+        let P = {
+            GET_ROULETTE_CURRENT: ["roulette/current"]
+        }
+          , W = ()=>{
+            let t = (0,
+            H.a)(P.GET_ROULETTE_CURRENT, async()=>{
+                let t = await F.hi.get("/roulette/current");
+                return t.data
+            }
+            , {
+                refetchOnMount: !0,
+                staleTime: 1e3
+            });
+            if (t.isError)
+                throw Error("Failed to load active game.");
+            return t
+        }
+        ;
+        (n = g || (g = {})).OPEN = "OPEN",
+        n.DRAWING = "DRAWING",
+        n.FINISHED = "FINISHED";
+        var q = r(59962);
+        let K = (0,
+        f.Z)("div", {
+            target: "exszvrc0"
+        })({
+            name: "qrzrn6",
+            styles: "margin-top:0.625rem;display:flex;gap:0.375rem"
+        });
+        var V = {
+            name: "1mniiwj",
+            styles: "height:1.75rem;width:1.75rem"
+        };
+        let U = ()=>{
+            let {data: t, isLoading: e} = W();
+            if (e)
+                return (0,
+                Z.tZ)(K, {
+                    children: (0,
+                    q.w)(0, 9).map(t=>(0,
+                    Z.tZ)(_, {
+                        isLoading: !0
+                    }, t))
+                });
+            let r = t.status === g.DRAWING ? t.history.slice(1) : t.history
+              , i = r.slice(0, 10).reverse();
+            return (0,
+            Z.tZ)(K, {
+                children: i.map((t,e)=>(0,
+                Z.tZ)(_, {
+                    outcome: t,
+                    css: V
+                }, e))
+            })
+        }
+        ;
+        var Y = r(48026)
+          , J = r(87536)
+          , Q = r(26102)
+          , $ = r(44012)
+          , tt = r(48228)
+          , te = r(78842);
+        let tr = {
+            [m.BAIT]: 7,
+            [m.BLACK]: 2,
+            [m.RED]: 2,
+            [m.GREEN]: 14
+        }
+          , ti = t=>tr[t];
+        var ta = r(75416)
+          , tn = r(85292)
+          , to = {
+            name: "rkay8w",
+            styles: "position:relative;height:4rem;width:100%;flex:1 1 auto;border-radius:0.25rem"
+        }
+          , ts = {
+            name: "1gw0a9q",
+            styles: "height:100%;width:100%;overflow:hidden;background-color:transparent;padding:0px;padding-left:1.25rem;padding-right:1.25rem;text-align:left;font-size:0.875rem;line-height:1;font-weight:700;letter-spacing:0em;color:rgb(0 0 0 / 0.75);@media (min-width: 1024px){font-size:1rem;line-height:1.5rem;}"
+        }
+          , tl = {
+            name: "fip5dm",
+            styles: "display:none;height:2.5rem;width:2.5rem;flex-shrink:0;@media (min-width: 425px){display:block;}"
+        };
+        let td = t=>{
+            let {getValues: e, type: r, color: i} = t
+              , {createAndCommit: a} = (0,
+            te.k)()
+              , {data: n, isLoading: o} = W()
+              , {mutate: s, isLoading: l} = (0,
+            tt.D)(async t=>await F.hi.post("/roulette/bet", t), {
+                onSuccess: ()=>{
+                    let {bet: t} = e();
+                    a(-(100 * t))
+                }
+            })
+              , d = ti(r)
+              , c = o || (null == n ? void 0 : n.status) !== g.OPEN;
+            return (0,
+            Z.BX)(I, {
+                color: i,
+                css: to,
+                children: [(0,
+                Z.tZ)(tn.T, {
+                    bottom: !1,
+                    scale: 1.35,
+                    seed: "".concat(r, "-fcwmocxmpemxpk")
+                }), (0,
+                Z.tZ)(Q.K, {
+                    css: ts,
+                    size: "large",
+                    disabled: c,
+                    isLoading: l,
+                    onClick: ()=>{
+                        if (!n)
+                            return;
+                        let {bet: t} = e();
+                        s({
+                            gameId: n.id,
+                            amount: Math.round(100 * t),
+                            option: r.toUpperCase()
+                        })
+                    }
+                    ,
+                    children: (0,
+                    Z.BX)("div", {
+                        css: ["display:flex;width:100%;align-items:center;justify-content:space-between;gap:0.25rem;", (0,
+                        ta.c)(N.u.DOTA) && {
+                            "--tw-text-opacity": "1",
+                            color: "rgb(255 255 255 / var(--tw-text-opacity))"
+                        }, "", ""],
+                        children: [(0,
+                        Z.tZ)($.Z, {
+                            id: "roulette.bet",
+                            values: {
+                                multiplier: "".concat(d, "x")
+                            }
+                        }), (0,
+                        Z.tZ)(B, {
+                            graphic: r,
+                            css: tl
+                        })]
+                    })
+                })]
+            })
+        }
+        ;
+        var tc = r(44691);
+        let tm = {
+            expanded: {
+                scale: [1, 1.2, 1.2, 1],
+                zIndex: 20,
+                transition: {
+                    times: [0, .07, .93, 1],
+                    duration: 3,
+                    ease: "easeInOut"
+                }
+            },
+            normal: {
+                scale: 1,
+                zIndex: 10,
+                transition: {
+                    ease: "easeInOut"
+                }
+            },
+            faded: {
+                opacity: [1, .7, .7, 1],
+                transition: {
+                    times: [0, .01, .99, 1],
+                    duration: 3,
+                    ease: "easeInOut"
+                }
+            }
+        };
+        var tu = {
+            name: "18fn37n",
+            styles: "z-index:10;height:7rem;width:7rem;border-radius:0.375rem;transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:300ms;transition-delay:100ms"
+        };
+        let tg = (0,
+        C.memo)(t=>{
+            let {outcome: e, active: r, expanded: i, faded: a} = t
+              , n = A(e)
+              , o = X(e);
+            return (0,
+            Z.tZ)("div", {
+                css: ["display:flex;height:100%;align-items:center;padding-left:0.5rem;padding-right:0.5rem;", r && {
+                    "--tw-bg-opacity": "1",
+                    backgroundColor: "rgb(44 48 52 / var(--tw-bg-opacity))"
+                }, "", ""],
+                children: (0,
+                Z.tZ)(tc.E.div, {
+                    initial: "normal",
+                    variants: tm,
+                    animate: i ? "expanded" : a ? "faded" : "normal",
+                    children: (0,
+                    Z.tZ)(I, {
+                        color: n,
+                        css: tu,
+                        children: (0,
+                        Z.tZ)(B, {
+                            graphic: o
+                        })
+                    })
+                })
+            })
+        }
+        );
+        var tp = r(10308)
+          , tw = r(20440)
+          , th = r(85519)
+          , tv = r(42091)
+          , tf = r(88148)
+          , tC = r(1777);
+        let ty = [.2, .6, .3, 1];
+        var tb = {
+            name: "s4xuff",
+            styles: "position:absolute;right:100%;height:100%;width:100%;--tw-bg-opacity:1;background-color:rgb(21 23 25 / var(--tw-bg-opacity))"
+        }
+          , tx = {
+            name: "bojyk5",
+            styles: "position:absolute;left:100%;height:100%;width:100%;--tw-bg-opacity:1;background-color:rgb(21 23 25 / var(--tw-bg-opacity))"
+        };
+        let tL = t=>{
+            let {startPosition: e, finalPosition: r, center: i, transform: a, children: n, itemCount: o, isAnimating: s, orientation: l, hasCompleted: d, finalPositionOffset: c=[.12, .88], ease: m=ty, delay: u=1.5, duration: g=6, seed: p, fullHeight: w=!1, times: h=[0, .9, .95, 1], ...v} = t
+              , [f,y] = c
+              , b = (0,
+            C.useMemo)(()=>tZ(f, y, p), [f, y, p])
+              , x = "-".concat((r + .5) / o * 100, "%")
+              , [L,E] = (0,
+            C.useState)(l);
+            (0,
+            C.useLayoutEffect)(()=>{
+                s || d || L === l || E(l)
+            }
+            , [l, d, s, L]);
+            let[R,B] = (0,
+            C.useState)(!1)
+              , N = "horizontal" === L ? "x" : "y"
+              , k = (h[1] - h[0]) * g
+              , O = (h[3] - h[2]) * g
+              , T = (h[2] - h[1]) * g;
+            (0,
+            C.useLayoutEffect)(()=>{
+                R || (s && B(!1),
+                setTimeout(()=>{
+                    B(!0)
+                }
+                , (u + h[1] * g) * 1e3))
+            }
+            , [s, h, g, u, R]);
+            let D = (0,
+            tf.Z)(n, (t,e)=>{
+                if ((0,
+                C.isValidElement)(t) && t.type === tv.c) {
+                    let r = {
+                        ...t.props,
+                        active: void 0 !== i && i === e,
+                        orientation: L
+                    };
+                    return (0,
+                    C.cloneElement)(t, r)
+                }
+                return t
+            }
+            );
+            return (0,
+            Z.BX)("div", {
+                css: ["position:relative;height:11rem;width:100%;", w && {
+                    height: "100%"
+                }, "vertical" === L && {
+                    height: "18rem"
+                }, "", ""],
+                ...v,
+                children: [(0,
+                Z.tZ)(tc.E.div, {
+                    css: ["position:absolute;display:inline-flex;align-items:center;", "vertical" === L ? {
+                        top: "50%",
+                        width: "100%",
+                        flexDirection: "column"
+                    } : {
+                        left: "50%",
+                        height: "100%"
+                    }, "", ""],
+                    style: {
+                        [N]: a
+                    },
+                    animate: s ? R ? {
+                        [N]: x,
+                        transition: {
+                            duration: O,
+                            delay: T,
+                            ease: m
+                        }
+                    } : {
+                        [N]: "-".concat((r + b) * 100 / o, "%"),
+                        transition: {
+                            delay: u,
+                            duration: k,
+                            ease: m
+                        }
+                    } : d ? {
+                        [N]: x,
+                        transition: {
+                            duration: 0
+                        }
+                    } : {
+                        [N]: "-".concat((e + .5) * 100 / o, "%"),
+                        transition: {
+                            duration: 0
+                        }
+                    },
+                    children: D
+                }), (0,
+                Z.tZ)("div", {
+                    css: tb
+                }), (0,
+                Z.tZ)("div", {
+                    css: tx
+                })]
+            }, L)
+        }
+          , tZ = (t,e,r)=>{
+            let i = r ? (0,
+            tC.F9)(r + "1") : Math.random()
+              , a = r ? (0,
+            tC.F9)(r + "2") : Math.random()
+              , n = Math.pow(i, 2) * (e - t);
+            return a < .5 ? n + t : e - n
+        }
+        ;
+        (o = p || (p = {})).HORIZONTAL = "horizontal",
+        o.VERTICAL = "vertical";
+        var tE = r.p + "static/media/roll.321686cf.mp3";
+        let tR = [0, 11, 5, 10, 6, 9, 7, 8, 1, 14, 2, 13, 3, 12, 4]
+          , tB = tR.length
+          , tN = 9 * tB
+          , tk = (0,
+        f.Z)("div", {
+            target: "e10wya5i0"
+        })({
+            name: "wb56g4",
+            styles: "position:relative;display:flex;width:100%;gap:0.75rem;border-radius:0.25rem;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity))"
+        });
+        var tO = {
+            name: "1az3fet",
+            styles: "height:8rem"
+        }
+          , tT = {
+            name: "wb56g4",
+            styles: "position:relative;display:flex;width:100%;gap:0.75rem;border-radius:0.25rem;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity))"
+        }
+          , tD = {
+            name: "1c7d28d",
+            styles: "position:absolute;left:50%;top:50%;z-index:10;height:9rem;width:3px;--tw-translate-x:-50%;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));--tw-translate-y:-50%;background-color:rgb(255 255 255 / 0.5)"
+        }
+          , tI = {
+            name: "h3wmy7",
+            styles: "position:relative;height:8rem"
+        };
+        let Animation = ()=>{
+            var t;
+            let e = (0,
+            th.Q)(tE, {
+                volume: .7
+            })
+              , {data: r, isLoading: i} = W()
+              , a = null !== (t = null == r ? void 0 : r.history) && void 0 !== t ? t : []
+              , n = 7 * tB + tR.indexOf(null == r ? void 0 : r.outcome)
+              , o = (null == r ? void 0 : r.status) === g.OPEN ? tB + tR.indexOf(a[0]) : tB + tR.indexOf(a[1])
+              , {center: s, isAnimating: l, hasCompleted: d, transform: c, startAnimation: m} = (0,
+            tp.$)({
+                itemCount: tN,
+                startPosition: o,
+                options: {
+                    tickSound: !1
+                }
+            });
+            if ((0,
+            C.useEffect)(()=>{
+                (null == r ? void 0 : r.outcome) === void 0 || (null == r ? void 0 : r.outcome) === null || (null == r ? void 0 : r.status) === g.FINISHED || l || d || (e.play(),
+                m())
+            }
+            , [null == r ? void 0 : r.outcome, null == r ? void 0 : r.status, d, l, e, m]),
+            i)
+                return (0,
+                Z.tZ)(tk, {
+                    children: (0,
+                    Z.tZ)(j.J, {
+                        css: tO
+                    })
+                });
+            let u = new Date(r.drawsAt).getTime()
+              , p = new Date(r.serverTime).getTime();
+            return (0,
+            Z.tZ)(Z.HY, {
+                children: (0,
+                Z.BX)("div", {
+                    css: tT,
+                    children: [(0,
+                    Z.tZ)("div", {
+                        css: tD
+                    }), (0,
+                    Z.tZ)(tL, {
+                        itemCount: tN,
+                        center: s,
+                        isAnimating: l,
+                        finalPosition: n,
+                        startPosition: o,
+                        orientation: tw.ke.HORIZONTAL,
+                        hasCompleted: d,
+                        ease: [.18, .94, .6, 1],
+                        transform: c,
+                        delay: Math.round((u - p) / 1e3),
+                        duration: 6,
+                        css: tI,
+                        children: (0,
+                        q.w)(0, tN - 1).map((t,e)=>(0,
+                        Z.tZ)(tw.$j.Item, {
+                            children: e=>{
+                                let {active: r} = e
+                                  , i = tR[t % tR.length]
+                                  , a = t === n;
+                                return (0,
+                                Z.tZ)(tg, {
+                                    active: r,
+                                    outcome: i,
+                                    expanded: d && a,
+                                    faded: d && !a
+                                })
+                            }
+                        }, e))
+                    })]
+                })
+            })
+        }
+          , tj = (0,
+        f.Z)("div", {
+            target: "eublep70"
+        })({
+            name: "ijyx1p",
+            styles: "height:0.25rem;width:100%;border-radius:9999px;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity));@media (min-width: 640px){margin-top:0px;}"
+        });
+        var tA = {
+            name: "1daoqq7",
+            styles: "height:100%;border-radius:9999px;--tw-bg-opacity:1;background-color:rgb(255 199 1 / var(--tw-bg-opacity))"
+        };
+        let tG = ()=>{
+            let {data: t, isSuccess: e} = W();
+            if (!e)
+                return (0,
+                Z.tZ)(tj, {});
+            let r = new Date(t.drawsAt).getTime()
+              , i = new Date(t.serverTime).getTime();
+            return (0,
+            Z.tZ)(tj, {
+                children: (0,
+                Z.tZ)(tc.E.div, {
+                    css: tA,
+                    initial: {
+                        width: "100%"
+                    },
+                    animate: {
+                        width: "0%"
+                    },
+                    transition: {
+                        duration: (r - i) / 1e3,
+                        ease: "linear"
+                    }
+                })
+            })
+        }
+        ;
+        var tX = r(61157)
+          , tS = r(94096)
+          , tz = r(84849)
+          , tM = r(68678)
+          , t_ = {
+            name: "1x2p7l8",
+            styles: "display:flex;width:100%;flex-direction:column;gap:0.625rem;@media (min-width: 768px){min-height:28rem;}"
+        }
+          , tH = {
+            name: "1jh875c",
+            styles: "display:flex;align-items:center;justify-content:space-between;padding-left:0.5rem;padding-right:0.5rem;font-size:0.875rem;line-height:1.25rem"
+        }
+          , tF = {
+            name: "4ved3l",
+            styles: "display:flex;align-items:center;gap:0.5rem"
+        }
+          , tP = {
+            name: "wcu1u8",
+            styles: "height:1.25rem;width:1.25rem;fill:#FFC701"
+        }
+          , tW = {
+            name: "a88p1",
+            styles: "width:3rem"
+        };
+        let tq = t=>{
+            let {type: e} = t
+              , {isLoading: r, data: i} = W()
+              , a = (0,
+            C.useMemo)(()=>i ? null == i ? void 0 : i.bets.filter(t=>t.option.toLowerCase() === e) : [], [i, e])
+              , n = (0,
+            C.useMemo)(()=>a ? a.reduce((t,e)=>{
+                let r = t.findIndex(t=>t.user.id === e.user.id);
+                if (-1 !== r) {
+                    let i = {
+                        ...t[r],
+                        amount: t[r].amount + e.amount
+                    };
+                    t[r] = i
+                } else
+                    t.push(e);
+                return t
+            }
+            , []) : [], [a])
+              , o = (0,
+            C.useMemo)(()=>n ? n.sort((t,e)=>e.amount - t.amount) : [], [n])
+              , s = (0,
+            C.useMemo)(()=>n ? n.reduce((t,e)=>t + e.amount, 0) : 0, [n])
+              , l = S(null == i ? void 0 : i.outcome)
+              , d = l.includes(e);
+            return (0,
+            Z.BX)("div", {
+                css: t_,
+                children: [(r || !!n.length) && (0,
+                Z.BX)("div", {
+                    css: tH,
+                    children: [(0,
+                    Z.BX)("div", {
+                        css: tF,
+                        children: [(0,
+                        Z.tZ)(B, {
+                            graphic: e,
+                            css: tP
+                        }), (0,
+                        Z.tZ)($.Z, {
+                            id: "roulette.type.".concat(e)
+                        })]
+                    }), r ? (0,
+                    Z.tZ)(tz.Z, {
+                        css: tW
+                    }) : (0,
+                    Z.tZ)(tX.F, {
+                        children: s
+                    })]
+                }), (0,
+                Z.tZ)("div", {
+                    css: ["display:flex;flex-direction:column;gap:0.375rem;", (null == i ? void 0 : i.status) === g.FINISHED && !d && {
+                        opacity: "0.5"
+                    }, "", ""],
+                    children: r ? (0,
+                    q.w)(0, 2).map(t=>(0,
+                    Z.tZ)(tS.F, {
+                        isLoading: !0
+                    }, t)) : o.map((t,r)=>{
+                        let a = d ? t.amount * ti(e) : -t.amount;
+                        return (0,
+                        Z.tZ)(tS.F, {
+                            amount: t.amount,
+                            avatar: t.user.avatar,
+                            username: t.user.name,
+                            id: t.user.id,
+                            hasPass: (0,
+                            tM.y)(t.user.premiumUntil),
+                            ...i.status === g.FINISHED && {
+                                result: a
+                            }
+                        }, r)
+                    }
+                    )
+                })]
+            })
+        }
+          , tK = {
+            animationDuration: 6e3
+        };
+        var tV = r(85945)
+          , tU = r(4202)
+          , tY = r(12902)
+          , tJ = r(93960);
+        let tQ = ()=>{
+            let t = (0,
+            tV.NL)()
+              , {data: e} = W()
+              , {user: r} = (0,
+            tU.a)()
+              , {create: i, commit: a} = (0,
+            te.k)()
+              , n = (0,
+            C.useCallback)(()=>{
+                setTimeout(()=>{
+                    t.setQueryData(["roulette/current"], t=>{
+                        if (t)
+                            return (0,
+                            tY.ZP)(t, t=>{
+                                t.status = g.FINISHED
+                            }
+                            )
+                    }
+                    )
+                }
+                , tK.animationDuration)
+            }
+            , [t])
+              , o = (0,
+            C.useCallback)(t=>{
+                let e = t.bets.filter(t=>t.user.id === (null == r ? void 0 : r.id))
+                  , n = S(t.outcome)
+                  , o = e.reduce((t,e)=>{
+                    let r = e.option.toLowerCase();
+                    if (n.includes(r)) {
+                        let i = ti(r);
+                        t += e.amount * i
+                    }
+                    return t
+                }
+                , 0);
+                if (o > 0) {
+                    let t = i(o, {
+                        soundWhenCommit: !0
+                    });
+                    setTimeout(()=>{
+                        a(t)
+                    }
+                    , tK.animationDuration)
+                }
+            }
+            , [a, i, null == r ? void 0 : r.id]);
+            (0,
+            C.useEffect)(()=>{
+                let e = e=>{
+                    t.setQueryData(["roulette/current"], t=>{
+                        if (!t)
+                            return;
+                        let r = {
+                            ...t,
+                            ...e
+                        };
+                        return e.status === g.DRAWING && (r.history = [r.outcome, ...r.history.slice(0, -1)],
+                        n(),
+                        o(r)),
+                        e.status === g.OPEN && (r.bets = []),
+                        r
+                    }
+                    )
+                }
+                  , r = e=>{
+                    t.setQueryData(["roulette/current"], t=>{
+                        if (t)
+                            return (0,
+                            tY.ZP)(t, t=>{
+                                t.bets.push(e)
+                            }
+                            )
+                    }
+                    )
+                }
+                ;
+                return tJ.W.subscribe("roulette"),
+                tJ.W.on("roulette:round", e),
+                tJ.W.on("roulette:bet", r),
+                ()=>{
+                    tJ.W.unsubscribe("roulette"),
+                    tJ.W.off("roulette:round", e),
+                    tJ.W.off("roulette:bet", r)
+                }
+            }
+            , [a, i, o, e, n, t, r])
+        }
+        ;
+        var t$ = r(55097)
+          , t1 = r(28981)
+          , t0 = r(85309)
+          , t2 = r(89076)
+          , t5 = {
+            name: "w9acf",
+            styles: "filter:drop-shadow(0px 0px 16px rgba(121, 211, 118, 0.36))"
+        };
+        let t7 = t=>{
+            let {disabled: e} = t;
+            return (0,
+            Z.tZ)(I, {
+                color: u.GREEN,
+                css: ["z-index:10;height:2.25rem;width:2.25rem;border-radius:0.375rem;", e ? {
+                    opacity: "0.25",
+                    "--tw-grayscale": "grayscale(100%)",
+                    filter: "var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)"
+                } : t5, "", ""],
+                children: (0,
+                Z.tZ)(B, {
+                    graphic: m.GREEN
+                })
+            })
+        }
+        ;
+        var t3 = r(74754)
+          , t4 = {
+            name: "hjn2rb",
+            styles: "background:radial-gradient(\n                  100% 100% at 50% 85%,\n                  rgba(78, 163, 77, 0.16) 0%,\n                  rgba(0, 0, 0, 0) 100%\n                ),#1f2225;box-shadow:0px 0px 26px 0px rgba(0, 0, 0, 0.61) inset"
+        }
+          , t6 = {
+            name: "9gxvy4",
+            styles: "display:flex;flex-direction:column;align-items:center;gap:0.5rem"
+        }
+          , t8 = {
+            name: "qxwicl",
+            styles: "overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:0.875rem;line-height:1.25rem;font-weight:600;--tw-text-opacity:1;color:rgb(34 197 94 / var(--tw-text-opacity));@media not all and (min-width: 1280px){display:none;}"
+        }
+          , t9 = {
+            name: "1ytv846",
+            styles: "--tw-text-opacity:1;color:rgb(34 197 94 / var(--tw-text-opacity))"
+        }
+          , et = {
+            name: "1hbq6wv",
+            styles: "font-size:1.25rem;line-height:1.75rem;--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))"
+        }
+          , ee = {
+            name: "1cpny5p",
+            styles: "display:flex;gap:0.625rem"
+        };
+        let er = ()=>{
+            let t = (0,
+            tV.NL)()
+              , {data: e, isLoading: r} = W()
+              , [i,a] = (0,
+            C.useState)(!1)
+              , n = (0,
+            C.useMemo)(()=>{
+                if (!e)
+                    return 0;
+                let t = e.status === g.DRAWING ? e.history.slice(1) : e.history
+                  , r = 0;
+                for (let e = 0; e < t.length && 0 === t[e]; e++)
+                    r += 1;
+                let i = r % 3;
+                return e.status === g.FINISHED && r >= 3 && 0 === i ? 3 : i
+            }
+            , [e]);
+            return ((0,
+            C.useEffect)(()=>{
+                let e = e=>{
+                    let {jackpot: r} = e;
+                    t.setQueryData(P.GET_ROULETTE_CURRENT, t=>t ? (0,
+                    tY.ZP)(t, t=>{
+                        t.jackpot = r
+                    }
+                    ) : t)
+                }
+                ;
+                return tJ.W.on("roulette:jackpot", e),
+                ()=>{
+                    tJ.W.off("roulette:jackpot", e)
+                }
+            }
+            ),
+            r) ? null : (0,
+            Z.BX)(Z.HY, {
+                children: [(0,
+                Z.tZ)(t3.a, {
+                    isOpen: i,
+                    setOpen: a
+                }), (0,
+                Z.BX)("div", {
+                    css: t6,
+                    children: [(0,
+                    Z.tZ)("div", {
+                        css: t8,
+                        children: (0,
+                        Z.tZ)($.Z, {
+                            id: "roulette.bonus.triple_green_bonus"
+                        })
+                    }), (0,
+                    Z.BX)("button", {
+                        onClick: ()=>a(!0),
+                        css: ["position:relative;display:flex;width:100%;flex-shrink:0;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;border-radius:0.25rem;border-width:1px;border-style:dashed;padding-left:1rem;padding-right:1rem;padding-top:0.5rem;padding-bottom:0.5rem;text-align:left;:hover{opacity:0.75;}@media (min-width: 640px){width:auto;}", t4, "--tw-border-opacity:1;border-color:rgb(34 197 94 / var(--tw-border-opacity));", ""],
+                        children: [(0,
+                        Z.tZ)(tn.T, {
+                            tl: !1,
+                            tr: !0,
+                            bottom: !1,
+                            scale: 1.35,
+                            top: !0,
+                            seed: "12fccdq1"
+                        }), (0,
+                        Z.tZ)("div", {
+                            css: t9,
+                            children: (0,
+                            Z.tZ)(tX.F, {
+                                css: et,
+                                children: null == e ? void 0 : e.jackpot
+                            })
+                        }), (0,
+                        Z.BX)("div", {
+                            css: ee,
+                            children: [(0,
+                            q.w)(1, n).map((t,e)=>(0,
+                            Z.tZ)(t7, {}, e)), (0,
+                            q.w)(1, Math.max(0, 3 - n)).map((t,e)=>(0,
+                            Z.tZ)(t7, {
+                                disabled: !0
+                            }, e))]
+                        })]
+                    })]
+                })]
+            })
+        }
+        ;
+        var ei = r(55975)
+          , ea = r(5434)
+          , en = r(25820)
+          , eo = {
+            name: "vy1cjr",
+            styles: "display:flex;flex-direction:column;gap:0.625rem;@media not all and (min-width: 640px){width:100%;}"
+        }
+          , es = {
+            name: "12jn1rw",
+            styles: "font-size:0.875rem;line-height:1.25rem;@media not all and (min-width: 1280px){display:none;}"
+        }
+          , el = {
+            name: "1cpny5p",
+            styles: "display:flex;gap:0.625rem"
+        }
+          , ed = {
+            name: "1mq8dfu",
+            styles: "display:flex;min-width:4.5rem;flex:1 1 0%;align-items:center;justify-content:space-evenly;gap:0.5rem;border-radius:0.25rem;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity));padding:0.5rem"
+        }
+          , ec = {
+            name: "103ojmg",
+            styles: "height:1.5rem;width:1.5rem;border-radius:9999px;--tw-drop-shadow:drop-shadow(0 1px 1px rgb(0 0 0 / 0.05));filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)"
+        }
+          , em = {
+            name: "16wi913",
+            styles: "height:1.25rem;width:1rem;--tw-brightness:brightness(1.5);filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)"
+        }
+          , eu = {
+            name: "16y5zu0",
+            styles: "color:rgb(255 255 255 / 0.9)"
+        };
+        let eg = ()=>{
+            let {data: t, isLoading: e} = W()
+              , r = (null == t ? void 0 : t.status) === g.DRAWING ? t.history.slice(1) : null == t ? void 0 : t.history
+              , i = (0,
+            C.useMemo)(()=>r ? r.slice(0, 100) : null, [r])
+              , a = (0,
+            C.useMemo)(()=>{
+                if (!i)
+                    return null;
+                let t = {
+                    [m.BAIT]: 0,
+                    [m.BLACK]: 0,
+                    [m.GREEN]: 0,
+                    [m.RED]: 0
+                };
+                for (let e of i) {
+                    let r = X(e);
+                    t[r]++
+                }
+                return t
+            }
+            , [i]);
+            return (0,
+            Z.BX)("div", {
+                css: eo,
+                children: [(0,
+                Z.tZ)("div", {
+                    css: es,
+                    children: (0,
+                    Z.tZ)($.Z, {
+                        id: "roulette.last_100_rolls"
+                    })
+                }), (0,
+                Z.tZ)("div", {
+                    css: el,
+                    children: [m.RED, m.GREEN, m.BLACK, m.BAIT].map(t=>{
+                        var r;
+                        let i = null !== (r = null == a ? void 0 : a[t]) && void 0 !== r ? r : 0
+                          , n = G(t);
+                        return (0,
+                        Z.BX)("div", {
+                            css: ed,
+                            children: [(0,
+                            Z.tZ)(I, {
+                                color: null != n ? n : void 0,
+                                css: ec,
+                                noShadow: !0,
+                                children: (0,
+                                Z.tZ)(B, {
+                                    graphic: t
+                                }, t)
+                            }), e ? (0,
+                            Z.tZ)(j.J, {
+                                css: em
+                            }) : (0,
+                            Z.tZ)("div", {
+                                css: eu,
+                                children: i
+                            })]
+                        }, t)
+                    }
+                    )
+                })]
+            })
+        }
+        ;
+        var ep = {
+            name: "zjik7",
+            styles: "display:flex"
+        }
+          , ew = {
+            name: "1eqa882",
+            styles: "display:flex;flex-direction:row;align-items:stretch;@media not all and (min-width: 1280px){justify-content:center;}@media (min-width: 1280px){justify-content:flex-start;}"
+        }
+          , eh = {
+            name: "62fe6r",
+            styles: "flex-shrink:1;flex-grow:1;@media not all and (min-width: 1280px){display:none;}"
+        }
+          , ev = {
+            name: "1eqa882",
+            styles: "display:flex;flex-direction:row;align-items:stretch;@media not all and (min-width: 1280px){justify-content:center;}@media (min-width: 1280px){justify-content:flex-start;}"
+        }
+          , ef = {
+            name: "62fe6r",
+            styles: "flex-shrink:1;flex-grow:1;@media not all and (min-width: 1280px){display:none;}"
+        };
+        let eC = t=>{
+            let {leftElement: e, rightElement: r, children: i, ...a} = t;
+            return (0,
+            Z.BX)("div", {
+                css: ep,
+                ...a,
+                children: [(0,
+                Z.BX)("div", {
+                    style: {
+                        flexGrow: 1,
+                        flexShrink: 1,
+                        flexBasis: "0%"
+                    },
+                    css: ew,
+                    children: [e, (0,
+                    Z.tZ)("div", {
+                        css: eh
+                    })]
+                }), i, (0,
+                Z.BX)("div", {
+                    style: {
+                        flexGrow: 1,
+                        flexShrink: 1,
+                        flexBasis: "0%"
+                    },
+                    css: ev,
+                    children: [(0,
+                    Z.tZ)("div", {
+                        css: ef
+                    }), r]
+                })]
+            })
+        }
+          , ey = (0,
+        f.Z)("div", {
+            target: "e1pd210n0"
+        })({
+            name: "1vi5lm7",
+            styles: "display:flex;width:100%;gap:0.5rem"
+        });
+        var eb = {
+            name: "1i8q4q0",
+            styles: "position:relative;display:flex;width:100%;align-items:center;justify-content:space-between;gap:1.5rem;@media (min-width: 768px){flex-direction:row;}"
+        }
+          , ex = {
+            name: "1plhdpu",
+            styles: "width:100%;align-items:center;@media not all and (min-width: 1280px){flex-direction:column;align-items:stretch;gap:1rem;}@media not all and (min-width: 768px){flex-direction:column-reverse;}"
+        }
+          , eL = {
+            name: "1nbj7gn",
+            styles: "display:none;min-width:0px;overflow:hidden;@media (min-width: 1280px){display:block;}"
+        }
+          , eZ = {
+            name: "4ved3l",
+            styles: "display:flex;align-items:center;gap:0.5rem"
+        }
+          , eE = {
+            name: "fgv069",
+            styles: "margin-top:0.375rem;display:flex;aspect-ratio:1 / 1;height:2.25rem;align-items:center;justify-content:center;padding:0px;@media not all and (min-width: 768px){display:none;}"
+        }
+          , eR = {
+            name: "pxbjaw",
+            styles: "height:1.5rem;width:1.5rem;color:rgb(229 231 235 / 0.7)"
+        }
+          , eB = {
+            name: "pxbjaw",
+            styles: "height:1.5rem;width:1.5rem;color:rgb(229 231 235 / 0.7)"
+        }
+          , eN = {
+            name: "6rcant",
+            styles: "display:flex;width:100%;max-width:80rem;flex-direction:column;align-items:center;gap:1.25rem"
+        }
+          , ek = {
+            name: "t6yjo8",
+            styles: "position:relative;display:flex;width:100%;flex-direction:column;gap:0.5rem;border-radius:0.25rem;--tw-bg-opacity:1;background-color:rgb(31 34 37 / var(--tw-bg-opacity));padding:0.75rem;@media (min-width: 768px){width:auto;flex-direction:row;}"
+        }
+          , eO = {
+            name: "15fb7b9",
+            styles: "display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));@media (min-width: 768px){display:flex;}"
+        }
+          , eT = {
+            name: "olp71l",
+            styles: "display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:1.25rem;@media (min-width: 768px){grid-template-columns:repeat(4, minmax(0, 1fr));gap:0.5rem;}"
+        };
+        let eD = ()=>{
+            var t, e, r;
+            tQ();
+            let i = (0,
+            t2.L)()
+              , [a,n] = (0,
+            en.R)("rouletteExpanded", !0)
+              , {data: o} = W()
+              , {setValue: s, register: l, getValues: d, control: c} = (0,
+            J.cI)({
+                defaultValues: {
+                    bet: .01
+                }
+            })
+              , g = null !== (e = null == o ? void 0 : o.id) && void 0 !== e ? e : 0;
+            return (0,
+            Z.BX)("div", {
+                css: ["display:flex;flex-direction:column;align-items:center;gap:2.5rem;overflow:hidden;", v.jP, a && {
+                    marginLeft: "0px",
+                    marginRight: "0px",
+                    maxWidth: "none"
+                }, "", ""],
+                children: [(0,
+                Z.tZ)("div", {
+                    css: eb,
+                    children: (0,
+                    Z.tZ)(eC, {
+                        css: ex,
+                        leftElement: (0,
+                        Z.BX)("div", {
+                            css: eL,
+                            children: [(0,
+                            Z.tZ)(t$.R, {
+                                hideServerSeed: !0,
+                                hideClientSeed: !0,
+                                children: (0,
+                                Z.BX)(t1.y, {
+                                    children: [(0,
+                                    Z.tZ)($.Z, {
+                                        id: "fairness.modal.serial_id"
+                                    }), (0,
+                                    Z.tZ)(t0.II, {
+                                        value: null !== (r = null == o ? void 0 : null === (t = o.serial) || void 0 === t ? void 0 : t.serialId) && void 0 !== r ? r : i({
+                                            id: "fairness.modal.unknown"
+                                        }),
+                                        readOnly: !0
+                                    })]
+                                })
+                            }), (0,
+                            Z.BX)("div", {
+                                css: eZ,
+                                children: [(0,
+                                Z.tZ)(U, {}), (0,
+                                Z.tZ)(ei.z, {
+                                    css: eE,
+                                    color: "transparent",
+                                    onClick: ()=>null == n ? void 0 : n(t=>!t),
+                                    children: a ? (0,
+                                    Z.tZ)(ea.I_n, {
+                                        css: eR
+                                    }) : (0,
+                                    Z.tZ)(ea.Nms, {
+                                        css: eB
+                                    })
+                                })]
+                            })]
+                        }),
+                        rightElement: (0,
+                        Z.tZ)(eg, {}),
+                        children: (0,
+                        Z.tZ)(er, {})
+                    })
+                }), (0,
+                Z.tZ)(tG, {}, "progress-".concat(g)), (0,
+                Z.tZ)(Animation, {}, "animation-".concat(g)), (0,
+                Z.BX)("div", {
+                    css: eN,
+                    children: [(0,
+                    Z.BX)("div", {
+                        css: ek,
+                        children: [(0,
+                        Z.tZ)(tn.T, {
+                            tl: !1,
+                            tr: !0,
+                            bottom: !1,
+                            scale: 1.35,
+                            seed: "fcqadcxqc"
+                        }), (0,
+                        Z.tZ)(Y.V, {
+                            getValues: d,
+                            setValue: s,
+                            register: l,
+                            control: c,
+                            min: .01,
+                            max: 1e5,
+                            isHorizontal: !0,
+                            inputStyles: {
+                                "--tw-bg-opacity": "1",
+                                backgroundColor: "rgb(44 48 52 / var(--tw-bg-opacity))"
+                            }
+                        })]
+                    }), (0,
+                    Z.BX)(ey, {
+                        css: eO,
+                        children: [(0,
+                        Z.tZ)(td, {
+                            getValues: d,
+                            type: m.RED,
+                            color: u.RED
+                        }), (0,
+                        Z.tZ)(td, {
+                            getValues: d,
+                            type: m.GREEN,
+                            color: u.GREEN
+                        }), (0,
+                        Z.tZ)(td, {
+                            getValues: d,
+                            type: m.BLACK,
+                            color: u.BLACK
+                        }), (0,
+                        Z.tZ)(td, {
+                            getValues: d,
+                            type: m.BAIT
+                        })]
+                    }), (0,
+                    Z.BX)(ey, {
+                        css: eT,
+                        children: [(0,
+                        Z.tZ)(tq, {
+                            type: m.RED
+                        }), (0,
+                        Z.tZ)(tq, {
+                            type: m.GREEN
+                        }), (0,
+                        Z.tZ)(tq, {
+                            type: m.BLACK
+                        }), (0,
+                        Z.tZ)(tq, {
+                            type: m.BAIT
+                        })]
+                    })]
+                })]
+            })
+        }
+          , eI = ()=>(0,
+        Z.BX)(Z.HY, {
+            children: [(0,
+            Z.tZ)(w.H, {
+                game: h.Fi.ROULETTE
+            }), (0,
+            Z.tZ)(eD, {})]
+        });
+        eI.getLayout = t=>(0,
+        Z.tZ)(v.Ar, {
+            fullWidth: !0,
+            children: t
+        });
+        var ej = eI
+    },
+    25820: function(t, e, r) {
+        "use strict";
+        r.d(e, {
+            R: function() {
+                return a
+            }
+        });
+        var i = r(67294);
+        function a(t, e) {
+            let[r,a] = (0,
+            i.useState)(e)
+              , n = (0,
+            i.useCallback)(e=>{
+                a(r=>{
+                    let i = e instanceof Function ? e(r) : e;
+                    return localStorage.setItem(t, JSON.stringify(i)),
+                    i
+                }
+                )
+            }
+            , [t]);
+            return (0,
+            i.useEffect)(()=>{
+                let e = localStorage.getItem(t);
+                null !== e && a(JSON.parse(e))
+            }
+            , [t]),
+            [r, n]
+        }
+    }
+}, function(t) {
+    t.O(0, [7954, 8026, 8942, 299, 9774, 2888, 179], function() {
+        return t(t.s = 81822)
+    }),
+    _N_E = t.O()
+}
+]);
